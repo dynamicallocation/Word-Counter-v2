@@ -1,0 +1,9 @@
+exit
+compile
+~compile
+run
+touch texting.txt
+exit
+compile
+run
+exit
