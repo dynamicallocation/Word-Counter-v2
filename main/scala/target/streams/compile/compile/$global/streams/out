@@ -1,4 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/projects/cs371f18p1b/main/scala/Hello.scala:3:26: not found: value Source[0m
-[0m[[0m[31merror[0m] [0m[0m    val bufferedSource = Source.fromFile("testing.txt");[0m
-[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0m/projects/cs371f18p1b/main/scala/Hello.scala:14:20: value close is not a member of Iterator[String][0m
+[0m[[0m[31merror[0m] [0m[0m    bufferedSource.close[0m
+[0m[[0m[31merror[0m] [0m[0m                   ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
